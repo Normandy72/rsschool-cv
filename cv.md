@@ -1,6 +1,5 @@
-****
 # Ekaterina Slizhewskaya
-****
+
 ### Contacts
 
 * Location: Minsk, Belarus
@@ -45,3 +44,24 @@ function fibonacci(n) {
   return fibArray;
 }
 ```
+### Experience
+* Personal Project "DoctorPro" (C#, WPF) - software application for Hospital Admissions.
+[DoctorPro](https://github.com/Normandy72/DoctorPro.git)
+* Landing page for the medical center (HTML, CSS).
+[Landing Page](https://github.com/Normandy72/Landing_page-HappyChild-.git)
+
+
+### Education
+* **Belarussian State Medical University**
+  +  Pediatrician
+* **Belarusian National Technical University**
+  + Software Engineer
+* **RS Schools Course «JavaScript/Front-end. Stage 1»**
+  + In progress
+
+### Languages
+* English (B1)
+* German (B2 - Goethe Zertifikat)
+* Polish (A1)
+* Russian, Belarusian (Native speaker)
+
