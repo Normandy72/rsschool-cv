@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Normandy72.github.io/rsschool-cv/
