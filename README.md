@@ -1,1 +1,1 @@
-https://Normandy72.github.io/rsschool-cv/cv
+https://Normandy72.github.io/rsschool-cv/
